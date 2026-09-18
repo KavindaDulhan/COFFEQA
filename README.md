@@ -106,7 +106,7 @@ few-shot regime the method targets.
 ```bibtex
 @misc{coffeqa2026,
   title        = {COFFEQA: Counterfactual-guided Few-shot Distillation in Open-book Question Answering},
-  author       = {Kehelella, Kavinda and Dutta, Sanghamitra},
+  author       = {Kavinda Kehelella and Sanghamitra Dutta},
   year         = {2026},
   note         = {Manuscript under review},
 }
